@@ -5,4 +5,5 @@ This is a simple ATM system simulation implemented in Java. The ATM system allow
 Prerequisites
 
 Java: This project is implemented in Java. Ensure you have JDK 8 or higher installed.
+
 IDE: An Integrated Development Environment (IDE) like Eclipse, IntelliJ IDEA, or NetBeans is recommended, but you can also compile and run the Java program from the command line.
